@@ -7,3 +7,4 @@
 
   ➜  Local:   http://localhost:3000/
   ➜  Network: http://172.17.0.2:3000/
+8:20:19 PM [vite] changed tsconfig file detected: /home/kavia/workspace/code-generation/tictactoe-104257-f8b74ead/tic_tac_toe/tsconfig.json - Clearing cache and forcing full-reload to ensure TypeScript is compiled with updated config values.
